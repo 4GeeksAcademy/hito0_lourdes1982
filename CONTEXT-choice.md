@@ -19,6 +19,6 @@ La empresa se organiza en varias áreas, pero las que más han llamado mi atenci
 
 **Formación y Estándares de Calidad** La actualización de carta con su correspondiente ficha técnica asociada los distintos platos se hace de modo manual. Una plataforma multi-idioma (español-inglés) y que tenga todas las recetas actualizadas al momento de rehacer la carta, es una necesidad que veo como otra de las fundamentales.
 
-## Identificación de un reto de automatización
+## Identificación de un reto de automatización: Compras y proveedores
 
 Aunque hay varias áreas interesantes, el primer ámbito que necesita una actualización es que los pedidos de materias primas se hagan independiente por cada local, por teléfono o whatsapp y sin inventario, lo cual provoca un sobrecoste tanto por excendente como por rotura de stock de materia prima.
