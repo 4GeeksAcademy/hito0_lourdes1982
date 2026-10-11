@@ -22,3 +22,27 @@ La empresa se organiza en varias áreas, pero las que más han llamado mi atenci
 ## Identificación de un reto de automatización: Compras y proveedores
 
 Aunque hay varias áreas interesantes, el primer ámbito que necesita una actualización es que los pedidos de materias primas se hagan independiente por cada local, por teléfono o whatsapp y sin inventario, lo cual provoca un sobrecoste tanto por excendente como por rotura de stock de materia prima.
+
+## Mi idea de Agente IA
+
+El agente de IA integraría y actualizaría de forma continua la información de compras de los 14 locales de ambos países, recopilando:
+- Datos de pedidos,
+- Facturas,
+- Proveedores,
+- Consumos,
+- Inventario
+
+Para ello, necesitaría generar una base de datos, para cada establecimiento, de :
+- historial de compras,
+- catálogo de productos,
+- condiciones negociadas con cada proveedor,
+- datos de ventas y consumo.
+
+Con esta información, consolidaría el gasto por producto, proveedor, local y país y detectaría variaciones de precios y calcularía las necesidades de reposición para anticiparse a excesos o roturas de stock. 
+
+Como resultado:
+- generaría informes comparativos,
+- alertas de cambios de precios y niveles mínimos de inventario,
+- propuestas de compra con recomendaciones de proveedores
+- Como extra, podría generar automáticamente solicitudes de presupuesto y preparar pedidos. Quedando listos para la aprobación por parte de Lucía Fernández, quién tomaría la decisión final de enviarlos o modificarlos antes de enviarlos.
+
